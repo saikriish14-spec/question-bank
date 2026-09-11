@@ -1,4 +1,4 @@
-int = 0
+int = -1
 
 if int >1:
     print("the number is positive")
